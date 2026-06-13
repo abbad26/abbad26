@@ -52,17 +52,6 @@ I'm an Android developer from India, passionate about building clean, functional
 
 ---
 
-### 📱 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [OffRoute](https://github.com/abbad26/OffRoute) | Offline navigation & crisis protocol app | Kotlin, Android |
-| [SignInSignupApp](https://github.com/abbad26/SignInSignupApp) | Modern Sign In & Sign Up UI with Firebase auth | Kotlin, Firebase |
-| [android-mvvm-architecture](https://github.com/abbad26/android-mvvm-architecture) | Clean MVVM sample with ViewModel, LiveData & clean architecture | Kotlin, MVVM |
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
