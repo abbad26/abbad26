@@ -52,11 +52,15 @@ I'm an Android developer from India, passionate about building clean, functional
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abbad26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbad26&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbad26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbad26&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
